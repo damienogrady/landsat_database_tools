@@ -1,0 +1,13 @@
+GloVis Scene List
+sensor=Landsat 8 OLI
+ee_dataset_name=LANDSAT_8
+LC80290302014308LGN00
+sensor=L7 SLC-off (2003->)
+ee_dataset_name=LANDSAT_ETM_SLC_OFF
+LE70290302014316EDC00
+sensor=L7 SLC-on (1999-2003)
+ee_dataset_name=LANDSAT_ETM
+LE70290302002315EDC00
+sensor=Landsat 4-5 TM
+ee_dataset_name=LANDSAT_TM
+LT50290302002307LGS01
